@@ -13,3 +13,4 @@ class Top2VecConfig(PretrainedConfig):
     used to control the model outputs. Read the documentation from
     :class:`~transformers.PretrainedConfig` for more information.
     """
+    pass
